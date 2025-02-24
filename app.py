@@ -1,4 +1,4 @@
-pip install streamlit PyPDF2 pdfplumber transformers rake-nltk pybtex
+
 
 import streamlit as st
 import tempfile
