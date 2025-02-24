@@ -1,4 +1,4 @@
-pip install rake-nltk pybtex
+
 from pybtex.database import parse_string
 
 def generate_citation(text, style='apa'):
