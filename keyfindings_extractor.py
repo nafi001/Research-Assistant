@@ -1,4 +1,4 @@
-pip install  rake-nltk pybtex
+
 from rake_nltk import Rake
 
 def extract_key_findings(text, num_points=5):
