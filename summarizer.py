@@ -1,4 +1,4 @@
-pip install   transformers
+
 from transformers import pipeline
 
 def summarize_text(text, max_length=150):
