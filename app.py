@@ -4,7 +4,7 @@ from pdf_processor import extract_text
 from summarizer import summarize_text
 from citation_generator import generate_citation
 from keyfindings_extractor import extract_key_findings
-a
+
 st.title("📚 Free Academic Research Assistant")
 
 uploaded_file = st.file_uploader("Upload research paper (PDF)", type="pdf")
